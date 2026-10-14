@@ -1,0 +1,8 @@
+{
+  "name": "Remix SerenePulse - AI Guided Meditation \u0026 Sanctuary",
+  "description": "Generate custom guided meditation sessions with bespoke AI visuals, soothing voiceovers powered by Gemini TTS, breathing exercises, and an empathetic Zen AI Guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
